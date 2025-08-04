@@ -13,6 +13,11 @@ export default function App() {
     <div className="document">
       <div className="text">
         <p className="warning">
+          <u>Peer Reviewers:</u> This draft is certainly not complete, and you should expect a lot to change. Currently, about half of the website is currently caught up. I meant to add more, however I unfortunately had final to finish at the same time. With that being said, the style will most likely largely stand, so I ask you to critique on that mainly.<br />
+          <br />
+          Thank you!<br />
+          <br />
+
           <u>Maintenance</u>: This website will undergo scheduled system maintenance on Friday, August 1 from 5 p.m. until 9 p.m. While the website will remain accessible, users may experience brief interruptions or slower load times during this period. We appreciate your understanding.<br />
           <br />
           <u>Deadline Notice</u>: <b>10/20/2025</b> is the last day to register before the 11/04/2025 election.<br />
