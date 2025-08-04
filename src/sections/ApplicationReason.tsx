@@ -7,7 +7,7 @@ export default function ApplicationReason() {
   return (
     <FormField title="Application Reason" required>
       <p>If you are currently registered to vote, you do not have to use this application unless you have moved or changed your name.</p>
-      <MultipleRadioInput otherTitle="New Registration">
+      <MultipleRadioInput vertical otherTitle="New Registration">
         <label className="button-label hover" htmlFor="change-name">
           <input id="change-name" className="hover" type="checkbox" />
           Change of Name
